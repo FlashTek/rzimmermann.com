@@ -56,10 +56,10 @@ Set other link color for the title links
 */
 .archive__item-title {
   a {
-    color: $link-color;
+    color: $headline-link-color;
 
     &:hover {
-      color: $link-color-hover;
+      color: $headline-link-color-hover;
     }
   }
 }

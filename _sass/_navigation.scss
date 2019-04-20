@@ -51,6 +51,19 @@
   }
 }
 
+/*
+Set other link color for the title links
+*/
+.archive__item-title {
+  a {
+    color: $link-color;
+
+    &:hover {
+      color: $link-color-hover;
+    }
+  }
+}
+
 
 /*
    Post pagination navigation links

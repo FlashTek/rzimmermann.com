@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &zimmerrol
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : "https://stackoverflow.com/users/3157209/flashtek"
   steam            :
   tumblr           :
-  twitter          : "zimmerrol"
+  twitter          : # ""
   vine             :
   weibo            :
   xing             :

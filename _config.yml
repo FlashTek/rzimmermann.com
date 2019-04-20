@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Roland S. Zimmermann"
-  avatar           : "profile.jpg"
+  avatar           : "profile_small.jpg"
   bio              : "Physics student focused on Machine Learning"
   location         : "Tübingen, Germany"
   employer         : "Bethgelab @ University of Tübingen"

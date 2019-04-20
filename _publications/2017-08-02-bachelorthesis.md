@@ -13,5 +13,3 @@ Great progress for the prediction of time series has been made in the past by us
 Three questions will be studied: In the beginning a cross-prediction between the different variables of the systems will be performed. Next, the real dynamics will be predicted by knowing artificially blurred measurements of those. Finally, the excitations of unmeasured regions of the system will be predicted by measuring the boundary values of those. These questions are analyzed using ESNs; the classical methods of the nearest neighbour prediction and the radial basis functions are used to compare the performance. While the ESN can solve the first two tasks, it fails the last one. But in all three questions it gains a higher accuracy than the two classical approaches.
 
 [Download thesis (in German) here](https://github.com/FlashTek/rcp_spatio_temporal/raw/master/paper/thesis/latex/thesis.pdf)
-
-Recommended citation: Zimmermann, Roland S. (2017). Prediction spatio-temporal dynamics using reservoir computing.

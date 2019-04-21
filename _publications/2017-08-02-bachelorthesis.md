@@ -3,6 +3,7 @@ title: "Prediction spatio-temporal dynamics using reservoir computing"
 type: thesis
 collection: publications
 permalink: /publication/2017-08-02-bachelorthesis
+excerpt: ''
 # excerpt: 'Bachelor Thesis about the application of Echo State Network in non-linear dynamics.'
 date: 2017-08-02
 paperurl: 'https://github.com/FlashTek/rcp_spatio_temporal/raw/master/paper/thesis/latex/thesis.pdf'

@@ -4,6 +4,7 @@ Name Name:
   name        : "Roland S. Zimmermann"
   uri         : "http://rzimmermann.com"
   email       : "roland.zimmermann@stud.uni-goettingen.de"
-  bio         : "Physics studnent focused on Machine Learning"
+  bio         : "Physics student focused on Machine Learning"
+  googlescholar: "https://scholar.google.de/citations?user=4jdISHwAAAAJ&hl=en&oi=ao"
   avatar      : "profile.jpg"
   twitter     : "zimmerrol"

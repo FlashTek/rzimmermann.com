@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Physics, Georg-August University of Göttingen, 2019 (expected). <br>
+  Average grade 1.0 (best 2%)
+* B.Sc. in Physics with distinction, Georg-August University of Göttingen, 2017. <br>
+  Average grade 1.1 (best 1%)
+
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar 2019-Today: **Master Thesis**, *Bethgelab at University of Tübingen*, Tübingen <br>
+Continued research on adversarial examples and robust algorithms based on generative models for Computer Vision tasks.
   
+* Nov 2018-Feb 2019: **Intern: Machine Learning**, *Volkswagen Group Research*, Wolfsburg <br>
+Research on adversarial examples and model stability in Computer Vision tasks.
+  
+* Aug 2018-Oct 2018: **Junior Research Assitant**, *Advanced Digital Sciences Center*, Singapore <br>
+Research on Computer Vision and Natural Language Processing techniques using Deep Learning to perform visual and auditory emotion recognition using PyTorch and TensorFlow.
+
+* Mar 2018-Aug 2019: **Intern: Machine Learning**, *BMW CarIT GmbH*, Ulm <br>
+Development of Deep Learning/Machine Learning approaches for Computer Vision tasks in an automotive context using TensorFlow, e.g. instance segmentation/tracking and scene recognition.
+  
+* Aug 2017-Sep 2017: **Intern: Reinforcement Learning**, *Universidad del Pais Vasco,*, San Sebastian <br>
+Implementation and evaluation of (Deep) Reinforcement Learning algorithms in an open-source framework written in C++.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* TensorFlow, Keras, PyTorch
+* Jenkins, Docker
+* Programming languages
+  * Python
+  * Java
+  * C#
+  * C/C++
 
 Publications
 ======
@@ -42,18 +52,16 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * TA for *Physics IV: Atom and Quantum Physics*.
+  * TA for *Mathematical Methods in Physics*.
+  * TA for lab course *Physics II: Electricty*.
   
-Service and leadership
+Scholarships & Awards
 ======
-* Currently signed in to 43 different slack teams
+* 2017, 2018: Research Internships in Science and Engineering Worldwide. <br>
+Merit-based research scholarship awarded by the German Academic Exchange Service (DAAD).
+* 2017, 2018: Lower Saxony Scholarship. <br>
+Merit-based scholarship funded by the Lower Saxony Ministry of Science and Culture.

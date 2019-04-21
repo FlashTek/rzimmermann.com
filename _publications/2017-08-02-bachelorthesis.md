@@ -9,6 +9,7 @@ date: 2017-08-02
 paperurl: 'https://github.com/FlashTek/rcp_spatio_temporal/raw/master/paper/thesis/latex/thesis.pdf'
 paperurldescription: 'Access the thesis'
 authors: '**Zimmermann, R. S.**'
+venue: 'University of Göttingen'
 citation: 'Zimmermann, Roland S. (2017). Prediction spatio-temporal dynamics using reservoir computing.'
 ---
 Great progress for the prediction of time series has been made in the past by using Echo State Networks (ESNs), which are part of reservoir computing. In this thesis they will be used to predict the spatio-temporal (chaotic) dynamics of a two dimensional system. Thereby, the possible application for medical studies of the heart shall be considered. Therefore, at first ESNs are applied on to the Barkley and the Michell-Schaeffer model, which both can be used to describe the heart’s dynamics, and are compared to existing methods. Later, the Bueno-Orovio-Cherry-Fenton model is investigated and the ESN applied another time using the previously obtained insights. These models describe an excitable medium with multiple variables.

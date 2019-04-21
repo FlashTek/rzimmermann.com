@@ -57,7 +57,7 @@ Set other link color for the title links
 .archive__item-title {
   a {
     color: $headline-link-color;
-    text-decoration: none;
+    text-decoration: none !important;
 
     &:hover {
       color: $headline-link-color-hover;
@@ -77,11 +77,10 @@ Indent only the text/description of the items but not the title
 }
 
 /*
-Get rid off margin between title and first paragraph.
-Now we can use this as a subtitle
+Remove all spaces between paragraphs
 */
-.archive__item {
-  margin-top: 0;
+.archive__item > p {
+  margin: 0px;
 }
 
 /*

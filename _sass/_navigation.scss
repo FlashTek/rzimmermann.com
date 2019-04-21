@@ -73,7 +73,7 @@ Indent only the text/description of the items but not the title
 }
 
 .archive__item-title {
-  margin-left: 25px;
+  margin-left: -25px;
 }
 
 /*
@@ -82,6 +82,18 @@ Now we can use this as a subtitle
 */
 .archive__item {
   margin-top: 0;
+}
+
+/*
+Shows the type of the item, e.g. preprint, paper, report.
+*/
+.archive__item__type {
+  float: left;
+  margin-right: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 26px;
+  color: $light-gray;
 }
 
 

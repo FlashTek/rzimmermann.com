@@ -11,7 +11,7 @@ title                    : "Roland S. Zimmermann"
 title_separator          : "-"
 name                     : &name "Roland S. Zimmermann"
 description              : &description "personal description"
-url                      : https://flashtek.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rzimmermann.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "flashtek/flashtek.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -174,7 +174,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  coding:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -208,12 +208,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _coding
   - scope:
       path: ""
-      type: teaching
+      type: coding
     values:
-      layout: single
+      layout: single-coding
       author_profile: true
       share: true
       comments: true

@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Physics, Georg-August University of Göttingen, 2019 (expected). <br>
+* <span class="cv-highlight">M.Sc.</span> in Physics, Georg-August University of Göttingen, 2019 (expected). <br>
   Average grade 1.0 (best 2%)
-* B.Sc. in Physics with distinction, Georg-August University of Göttingen, 2017. <br>
+* <span class="cv-highlight">B.Sc.</span> in Physics with distinction, Georg-August University of Göttingen, 2017. <br>
   Average grade 1.1 (best 1%)
 
 

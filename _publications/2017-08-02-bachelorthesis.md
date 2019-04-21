@@ -3,7 +3,6 @@ title: "Prediction spatio-temporal dynamics using reservoir computing"
 type: thesis
 collection: publications
 permalink: /publication/2017-08-02-bachelorthesis
-excerpt: ''
 excerpt: 'Examination of recurrent neural networks (Echo State Networks) for the multiple prediction tasks in chaotic systems.'
 date: 2017-08-02
 paperurl: 'https://github.com/FlashTek/rcp_spatio_temporal/raw/master/paper/thesis/latex/thesis.pdf'

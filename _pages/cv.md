@@ -21,19 +21,19 @@ Education
 
 Work experience
 ======
-* Mar 2019 - Today: **Master Thesis**, *Bethgelab at University of Tübingen*, Tübingen <br>
+* <span class="cv-year">Mar 2019 - Today</span>: <span class="cv-highlight">Master Thesis</span>, *Bethgelab at University of Tübingen*, Tübingen <br>
 Continued research on adversarial examples and robust algorithms based on generative models for Computer Vision tasks.
   
-* Nov 2018 - Feb 2019: **Intern: Machine Learning**, *Volkswagen Group Research*, Wolfsburg <br>
+* <span class="cv-year">Nov 2018 - Feb 2019</span>: <span class="cv-highlight">Intern: Machine Learning</span>, *Volkswagen Group Research*, Wolfsburg <br>
 Research on adversarial examples and model stability in Computer Vision tasks.
   
-* Aug 2018 - Oct 2018: **Junior Research Assitant**, *Advanced Digital Sciences Center*, Singapore <br>
+* <span class="cv-year">Aug 2018 - Oct 2018</span>: <span class="cv-highlight">Junior Research Assitant</span>, *Advanced Digital Sciences Center*, Singapore <br>
 Research on Computer Vision and Natural Language Processing techniques using Deep Learning to perform visual and auditory emotion recognition using PyTorch and TensorFlow.
 
-* Mar 2018 - Aug 2019: **Intern: Machine Learning**, *BMW CarIT GmbH*, Ulm <br>
+* <span class="cv-year">Mar 2018 - Aug 2019</span>: <span class="cv-highlight">Intern: Machine Learning</span>, *BMW CarIT GmbH*, Ulm <br>
 Development of Deep Learning/Machine Learning approaches for Computer Vision tasks in an automotive context using TensorFlow, e.g. instance segmentation/tracking and scene recognition.
   
-* Aug 2017 - Sep 2017: **Intern: Reinforcement Learning**, *Universidad del Pais Vasco,*, San Sebastian <br>
+* <span class="cv-year">Aug 2017 - Sep 2017</span>: <span class="cv-highlight">Intern: Reinforcement Learning</span>, *Universidad del Pais Vasco,*, San Sebastian <br>
 Implementation and evaluation of (Deep) Reinforcement Learning algorithms in an open-source framework written in C++.
 
 Skills

@@ -83,8 +83,8 @@ author:
   name             : "Roland S. Zimmermann"
   avatar           : "profile_small.jpg"
   bio              : "Physics student focused on Machine Learning"
-  location         : "Tübingen, Germany"
-  employer         : "Bethgelab @ University of Tübingen"
+  location         : "University of Tübingen"
+  employer         : "Bethgelab"
   googlescholar    : "https://scholar.google.de/citations?user=4jdISHwAAAAJ&hl=en&oi=ao"
   email            : "roland.zimmermann@stud.uni-goettingen.de"
   researchgate     : "https://www.researchgate.net/profile/Roland_Zimmermann"
@@ -254,7 +254,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: EEurope/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

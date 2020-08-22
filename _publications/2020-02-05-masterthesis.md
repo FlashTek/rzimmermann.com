@@ -4,7 +4,7 @@ type: thesis
 collection: publications
 permalink: /publication/2020-02-05-masterthesis
 excerpt: 'Analyzing the robustness of computer vision and comparing it to human performance by developing novel evaluation methods'
-date: 2017-08-02
+date: 2020-02-05
 paperurl: 'https://rzimmermann.com/files/Masters_Thesis_Roland_S_Zimmermann.pdf'
 paperurldescription: 'Access the thesis'
 authors: '**Zimmermann, R. S.**'

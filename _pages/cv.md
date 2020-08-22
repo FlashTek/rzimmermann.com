@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* <span class="cv-highlight">M.Sc.</span> in Physics, Georg-August University of Göttingen, 2019 (expected). <br>
+* <span class="cv-highlight">PhD</span> in Physics/Machine Learning, University of Tübingen, 2023 (expected). <br>
+* <span class="cv-highlight">M.Sc.</span> in Physics, Georg-August University of Göttingen, 2020. <br>
   Average grade 1.0 (best 2%)
 * <span class="cv-highlight">B.Sc.</span> in Physics with distinction, Georg-August University of Göttingen, 2017. <br>
   Average grade 1.1 (best 1%)
@@ -21,7 +22,7 @@ Education
 
 Work experience
 ======
-* <span class="cv-year">Mar 2019 - Today</span>: <span class="cv-highlight">Master Thesis</span>, *Bethgelab at University of Tübingen*, Tübingen <br>
+* <span class="cv-year">Mar 2019 - Jan 2020</span>: <span class="cv-highlight">Master Thesis</span>, *Bethgelab at University of Tübingen*, Tübingen <br>
 Continued research on adversarial examples and robust algorithms based on generative models for Computer Vision tasks.
   
 * <span class="cv-year">Nov 2018 - Feb 2019</span>: <span class="cv-highlight">Intern: Machine Learning</span>, *Volkswagen Group Research*, Wolfsburg <br>
@@ -39,7 +40,7 @@ Implementation and evaluation of (Deep) Reinforcement Learning algorithms in an 
 Skills
 ======
 * TensorFlow, Keras, PyTorch
-* Jenkins, Docker
+* Jenkins, Docker, PyTest
 * Programming languages
   * Python
   * Java

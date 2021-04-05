@@ -7,7 +7,7 @@ excerpt: 'Simple but properly tuned training with additive noise generalizes sur
 date: 2020-04-26
 paperurl: 'https://trustworthyiclr20.github.io/rusak.pdf'
 paperurldescription: 'Access the workshop paper'
-authors: 'Rusak, E. and Schott, L. and **Zimmermann, R. S.** and Bitterwolf, J. and Bringmann, O. and Bethge, M. and Brendel, W.'
+authors: 'Rusak\*, E. and Schott\*, L. and **Zimmermann\*, R. S.** and Bitterwolf, J. and Bringmann, O. and Bethge, M. and Brendel, W.'
 venue: 'Towards Trustworthy ML: Rethinking Security and Privacy for ML (ICLR 2020 Workshop)'
 citation: 'Rusak, E., Schott, L., Zimmermann, R.S., Bitterwolf, J., Bringmann, O., Bethge, M. and Brendel, W.,Increasing the robustness of DNNs against image corruptions by playing the Game of Noise.'
 ---

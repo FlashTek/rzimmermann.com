@@ -12,4 +12,11 @@ I am a PhD student at the [University of Tübingen] and the [Max Planck Research
 
 I started doing research on object detection and segmentation. In the recent past I have primarily worked on understanding failure cases of machine learning models in computer vision tasks through the lense of adversarial perturbations and common corruptions. This lead me to my next goal: aligning the decision process of machines with that of humans by recreating the natural learning process and inducing priors.
 
-Current research interests: self-supervised learning, adversarial robustness, disentanglement
+Current research interests: *self-supervised learning, adversarial robustness, disentanglement*
+
+Latest Publications
+======
+  {% assign reversed_publications = site.items | reverse %}
+  <ul>{% for post in reversed_publications limit:3 %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

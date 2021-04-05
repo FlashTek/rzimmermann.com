@@ -16,7 +16,8 @@ Current research interests: *self-supervised learning, adversarial robustness, d
 
 Latest Publications
 ======
-  {% assign reversed_publications = site.items | reverse %}
+  {% assign reversed_publications = site.publications | reverse %}
   <ul>{% for post in reversed_publications limit:3 %}
-    {% include archive-single-cv.html %}
+    {% include about-single-publication.html %}
   {% endfor %}</ul>
+  <a href="./publications">More publications</a>
